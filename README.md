@@ -9,3 +9,5 @@ shrinkResources true
 proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
     有了这行代码就不需要在自己的项目中添加常规的android混淆代码
+
+![](https://github.com/lipangit/TestShirk/blob/master/show.png)
